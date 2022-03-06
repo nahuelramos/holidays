@@ -8,8 +8,8 @@ import { HomeRoutingModule } from './home.routing';
     HomeComponent,
   ],
   imports: [
-    HomeRoutingModule
+    HomeRoutingModule,
   ],
-  providers: []
+  providers: [],
 })
 export class HomeModule { }
